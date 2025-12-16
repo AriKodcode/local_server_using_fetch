@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^5.2.1",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "local_server_using_fetch",
+  "version": "1.0.0",
+  "description": "\"# local_server_using_fetch\"",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AriKodcode/local_server_using_fetch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AriKodcode/local_server_using_fetch/issues"
+  },
+  "homepage": "https://github.com/AriKodcode/local_server_using_fetch#readme"
+}
